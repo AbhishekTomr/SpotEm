@@ -1,0 +1,11 @@
+.quesImg{
+    border: 3px solid white;
+    height: 30vh;
+    width: 45%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.quesImg:hover{
+    cursor: pointer;
+    border: 5px solid orange;
+}
